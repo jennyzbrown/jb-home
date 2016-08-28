@@ -1,0 +1,180 @@
+.dt-button.featured,
+input[type=submit].solid,
+input[type=reset].solid,
+input[type=button].solid {
+    background: #3e8a6c;
+    border-color: #3e8a6c;
+}
+input[type=submit]:hover,
+input[type=reset]:hover,
+input[type=button]:hover {
+    border-color: #3e8a6c;
+    background: #3e8a6c
+}
+button:hover {
+    border-color: #3e8a6c;
+    background-color: #3e8a6c;
+}
+.dt-button.button-primary:focus,
+.dt-button.button-primary:hover,
+button.button-primary:focus,
+button.button-primary:hover,
+input[type=submit].button-primary:focus,
+input[type=submit].button-primary:hover,
+input[type=reset].button-primary:focus,
+input[type=reset].button-primary:hover,
+input[type=button].button-primary:focus,
+input[type=button].button-primary:hover {
+    color: #fff;
+    background-color: #3e8a6c;
+    border-color: #3e8a6c;
+}
+.author-bio .author-description h3 a:hover,
+.main-navigation a:hover,
+.main-navigation.dark-header a:hover,
+.nav-links a:hover,
+.pagenav a:hover,
+.pagenav span.current,
+a {
+    color: #3e8a6c;
+}
+#spinner:before {
+    border-top: 2px solid #3e8a6c;
+    border-left: 2px solid #3e8a6c
+}
+#comments .commentwrap .metacomment a.comment-reply-link {
+    border: 1px solid;
+}
+#comments .commentwrap .metacomment a.comment-reply-link:hover {
+    color: #fff;
+    background: #3e8a6c;
+    border-color: #3e8a6c;
+}
+.dt-hexagon i,
+.dt-hexagon span,
+.dt-services-grid .delicious-service .delicious-service-icon,
+.entry-header h1.entry-title a:hover,
+.entry-header h2.entry-title a:hover,
+.member-wrapper .member-info .member-meta span,
+.page-template-template-blog .grid-content .has-post-thumbnail .post-overlay:hover .cat-links a:hover,
+.page-template-template-blog .grid-content .has-post-thumbnail .post-overlay:hover .entry-header h2.entry-title a:hover,
+.portfolio .grid-item-on-hover h3 a:hover,
+.process-item-title .pi-title,
+.projnav li span:hover,
+.svg-title span,
+.testimonial-position,
+.thin-fill .dt-service-icon,
+.widget-area a:hover {
+    color: #3e8a6c;
+}
+.no-fill .dt-service-icon * {
+    color: #3e8a6c;
+}
+#comments #cancel-comment-reply-link {
+    border: 1px solid
+}
+#comments #cancel-comment-reply-link:hover {
+    background: #3e8a6c;
+    border-color: #3e8a6c;
+}
+.site-footer #social li a:hover,
+#headersocial li a:hover,
+.widget-area .tagcloud a:hover {
+    background-color: #3e8a6c;
+    border-color: #3e8a6c;
+}
+#dt-social-widget li a:hover {
+    background: #3e8a6c;
+}
+html .mc4wp-form .form-wrapper input[type=submit]:hover {
+    background-color: #3e8a6c;
+}
+.share-options a:hover {
+    background: #3e8a6c;
+}
+.dt-hexagon,
+.dt-hexagon:before {
+    border-right: 2px solid #3e8a6c
+}
+.dt-hexagon,
+.dt-hexagon:after {
+    border-left: 2px solid #3e8a6c
+}
+.dt-hexagon:before {
+    border-top: 2px solid #3e8a6c;
+}
+.dt-hexagon:after {
+    border-bottom: 2px solid #3e8a6c;
+}
+.dt-hexagon:hover {
+    background-color: #3e8a6c;
+}
+.bold-fill .dt-service-icon i,
+.bold-fill .dt-service-icon span,
+.svg-title svg {
+    border: 1px solid;
+}
+.svg-title svg path,
+.svg-title svg polygon,
+.svg-title svg rect {
+    fill: #3e8a6c;
+}
+.clients-carousel .owl-dot.active,
+.testimonials-carousel .owl-dot.active,
+.twitter-carousel .owl-dot.active {
+    background: #3e8a6c;
+    border-color: #3e8a6c;
+}
+
+.main-navigation ul ul li.current-menu-item a,
+.dt-blog-carousel h3.entry-title a:hover {
+    color: #3e8a6c;
+}
+.dt-blog-carousel a.excerpt-read-more span:hover {
+    color: #3e8a6c;
+    border-color: #3e8a6c;
+}
+.dt-blog-carousel .post-thumbnail .post-icon {
+    background: #3e8a6c;
+}
+html .member-wrapper .member-info .member-social ul li a:hover,
+ 
+.work-cta:hover {
+    background: #3e8a6c;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #3e8a6c;
+}
+.pagenav span.current,
+.pagenav a:hover {
+    border-color: #3e8a6c;
+}
+.contact-footer span[class*="icon-"],
+.contact-footer a:hover {
+    color: #3e8a6c;
+}
+.text-on-thumbnail .grid-item-on-hover.style-2 .grid-text {
+    background: #3e8a6c !important;
+}
+html ul.dt-tabs li:hover,
+html ul.dt-tabs li.current span.dt-tab-title,
+html ul.dt-tabs li.current span.dt-tab-count,
+.dt-breadcrumbs a,
+.dt-play-video a:hover,
+html .contact-footer span[class*="icon-"],
+aside[id^="woocommerce_"] li a:hover,
+html .woocommerce ul.products li.product a h3:hover,
+html .portfolio.portfolio-layout-mosaic li .dt-awesome-project h3 a:hover {
+    color: #3e8a6c;
+}
+html a.cat-trigger,
+html .portfolio.portfolio-layout-mosaic li .dt-awesome-project h3 a:after,
+html .bold-fill .dt-service-icon i,
+html .bold-fill .dt-service-icon span {
+    background: #3e8a6c;
+}
+html .thin-fill .dt-service-icon span,
+html .thin-fill .dt-service-icon i {
+    border-color: #3e8a6c;
+    color: #3e8a6c;
+}

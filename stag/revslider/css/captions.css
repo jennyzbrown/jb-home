@@ -1,0 +1,285 @@
+/*fullscreen intro*/
+
+.tp-caption.Photography-Textblock,
+.Photography-Textblock {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 17px;
+    line-height: 30px;
+    font-weight: 300;
+    font-style: normal;
+    font-family: Raleway;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    letter-spacing: 2px
+}
+.tp-caption.StagBigTitle,
+.StagBigTitle {
+    color: rgba(113, 155, 139, 1.00);
+    font-size: 30px;
+    line-height: 42px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: Raleway;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px
+}
+
+/*stag slider*/
+
+.tp-caption.StagSmallUppercase,
+.StagSmallUppercase {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Raleway;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: left;
+    letter-spacing: 2px
+}
+.tp-caption.StagBig,
+.StagBig {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 600;
+    font-style: normal;
+    font-family: Raleway;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: left
+}
+.tp-caption.StagButton,
+.StagButton {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Raleway;
+    padding: 15px 25px !important;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: rgba(255, 255, 255, 1.00);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0px 0px 0px 0px;
+    text-align: center;
+    letter-spacing: 2px
+}
+.tp-caption.StagButton:hover,
+.StagButton:hover {
+    color: rgba(0, 0, 0, 1.00);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 1.00);
+    border-color: rgba(255, 255, 255, 1.00);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0px 0px 0px 0px;
+    cursor: pointer
+}
+.tp-caption.StagDot,
+.StagDot {
+    color: rgba(0, 0, 0, 1.00);
+    font-size: px;
+    line-height: px;
+    font-weight: 100;
+    font-style: normal;
+    font-family: ;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    background-color: rgba(62, 138, 108, 1.00);
+    border-color: rgba(255, 255, 255, 1.00);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 50% 50% 50% 0px !important;
+    text-align: left
+}
+.tp-caption.StagDot:hover,
+.StagDot:hover {
+    color: rgba(0, 0, 0, 1.00);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 1.00);
+    border-color: rgba(62, 138, 108, 1.00);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 50% 50% 50% 0px;
+    cursor: pointer
+}
+.tp-caption.StagDotHorizontal,
+.StagDotHorizontal {
+    color: rgba(0, 0, 0, 1.00);
+    font-size: px;
+    line-height: px;
+    font-weight: 100;
+    font-style: normal;
+    font-family: Arial;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    background-color: rgba(62, 138, 108, 1.00);
+    border-color: rgba(255, 255, 255, 1.00);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 50% 50% 50% 0px !important;
+    text-align: left
+}
+.tp-caption.StagDotHorizontal:hover,
+.StagDotHorizontal:hover {
+    color: rgba(0, 0, 0, 1.00);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 1.00);
+    border-color: rgba(62, 138, 108, 1.00);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 50% 50% 50% 0px;
+    cursor: pointer
+}
+#rev_slider_2_1_wrapper .tp-loader.spinner2 {
+    background-color: #3e8a6c !important;
+}
+.custom.tparrows {
+    cursor: pointer;
+    background: #000;
+    background: rgba(0, 0, 0, 0.5);
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    display: block;
+    z-index: 100
+}
+.custom.tparrows:hover {
+    background: #000
+}
+.custom.tparrows:before {
+    font-family: "revicons";
+    font-size: 15px;
+    color: #fff;
+    display: block;
+    line-height: 40px;
+    text-align: center
+}
+.custom.tparrows.tp-leftarrow:before {
+    content: "\e824"
+}
+.custom.tparrows.tp-rightarrow:before {
+    content: "\e825"
+}
+.custom.tp-bullets {}.custom.tp-bullets:before {
+    content: " ";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    padding: 10px;
+    margin-left: -10px;
+    margin-top: -10px;
+    box-sizing: content-box
+}
+.custom .tp-bullet {
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    background: #aaa;
+    background: rgba(125, 125, 125, 0.5);
+    cursor: pointer;
+    box-sizing: content-box
+}
+.custom .tp-bullet:hover,
+.custom .tp-bullet.selected {
+    background: rgb(125, 125, 125)
+}
+
+
+.dark-navigation.tp-bullets .tp-bullet {
+    border: 1px solid #323232;
+    &.selected {
+        background: #323232;
+    }
+}
+
+html .custom .tp-bullet {
+    background: transparent;
+    border: 1px solid #fff;
+    @include transition(0.3s);
+    @include opacity(0.7);
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+    &.selected {
+        background: #fff;
+    }
+}
+
+html .tp-caption.StagDotHorizontal, html .tp-caption.StagDot {
+    -webkit-transition:all 0.3s linear !important;
+    -moz-transition:all 0.3s linear !important;
+    -o-transition:all 0.3s linear !important;
+    transition:all 0.3s linear !important;
+}
+
+
+
+/* revslider arrows */
+.tparrows.custom {
+    width: 33px !important;
+    height: 33px !important;
+}
+
+.tp-rightarrow.tparrows.custom:before,
+.tp-leftarrow.tparrows.custom:before {
+    content: none !important;
+}
+
+.dark-navigation.tp-leftarrow.tparrows.custom {
+    background: url(../../assets/images/slider-arrow-top-dark.svg) no-repeat !important;
+}
+
+.tp-leftarrow.tparrows.custom {
+    background: url(../../assets/images/slider-arrow-top.svg) no-repeat !important;
+
+    &:before {
+        content: none !important;
+    }
+}
+
+.dark-navigation.tp-rightarrow.tparrows.custom {
+    background: url(../../assets/images/slider-arrow-bottom-dark.svg) no-repeat !important;
+}
+
+.tp-rightarrow.tparrows.custom {
+    background: url(../../assets/images/slider-arrow-bottom.svg) no-repeat !important;
+    &:before {
+        content: none;
+    }
+}
+
+.rev_slider img {
+    max-width: inherit;
+}
+
+.custom.tp-bullets {
+    position: absolute;
+}
