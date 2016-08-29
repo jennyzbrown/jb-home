@@ -1,0 +1,136 @@
+$brandBlue: #38AFEA;
+$buttonBlue: #1C72AA;
+$navBlue: #273C57;
+$grayWhite:#FEFDFE;
+$grayWhite-1:#fafafa;
+$blueFont:#106ca7;
+
+::-webkit-scrollbar-thumb:hover,
+-moz::selection, ::selection{
+	background:$brandBlue;
+}
+header#header {
+    padding-top: 18px !important;
+    padding-bottom:18px !important;
+}
+
+a{
+/*	color:$navBlue !important;*/
+	&:hover{
+		color:$brandBlue !important;
+	};
+}
+
+.logo-jzb{
+	border: 3px solid $brandBlue;
+	color:$brandBlue;
+	padding:4px;
+	border-radius:10px;
+	transition: background-color 0.3s, color 0.3s;
+	&:hover{
+
+		color: #ffffff;
+		background-color: $brandBlue;
+
+	}
+}
+
+.dt-separator:after{
+	background:#ffffff;
+}
+
+
+.whitetext{
+	color:#ffffff;
+}
+
+.capitals{
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+#homepage-hexagons-intro.blue-bb{
+	background-color:$brandBlue;
+	h1{
+		color:white;
+	}
+}
+
+/*//ICONS//*/
+
+
+.dt-hexagon,
+.dt-hexagon:before {
+    border-right: 2px solid #ffffff;
+}
+.dt-hexagon,
+.dt-hexagon:after {
+    border-left: 2px solid #ffffff;
+}
+.dt-hexagon:before {
+    border-top: 2px solid #ffffff;
+}
+.dt-hexagon:after {
+    border-bottom: 2px solid #ffffff;
+}
+.dt-hexagon:hover {
+    background-color: transparent;
+}
+
+.dt-hexagon, .dt-hexagon:after{
+	background-color: $brandBlue;
+}
+
+.icon-pencil:before,
+.icon-camera:before,
+.dt-hexagon i{
+	color: #ffffff;
+
+}
+
+i.fa.fa-code{
+	-webkit-text-stroke: 2px $brandBlue;
+}
+
+.main-navigation ul#primary-menu > li.menu-item-has-children:after{
+	display:none;
+}
+
+.skills{
+	.icon-pencil:before,
+	.icon-camera:before,
+	.no-fill .dt-service-icon *,
+	.dt-hexagon i{
+		color: $navBlue;
+
+	}
+	i.fa.fa-code{
+	-webkit-text-stroke: 2px white;
+}
+
+
+}
+
+.projects-header-container{
+	background-color:$navBlue;
+	h2{
+		padding:90px;
+	}
+
+}
+
+.dark-background{
+	background-color: $navBlue;
+	color:white;
+	h2, h4, span{
+		color:white;
+	}
+	a{
+		color:$brandBlue;
+	}
+
+	a:hover{
+		color:white !important;
+	};
+	
+}

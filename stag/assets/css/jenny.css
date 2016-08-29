@@ -1,0 +1,148 @@
+/* line 8, ../scss/jenny.scss */
+::-webkit-scrollbar-thumb:hover,
+-moz::selection, ::selection {
+  background: #38AFEA;
+}
+
+/* line 12, ../scss/jenny.scss */
+header#header {
+  padding-top: 18px !important;
+  padding-bottom: 18px !important;
+}
+
+/* line 17, ../scss/jenny.scss */
+a {
+  /*	color:$navBlue !important;*/
+}
+/* line 19, ../scss/jenny.scss */
+a:hover {
+  color: #38AFEA !important;
+}
+
+/* line 24, ../scss/jenny.scss */
+.logo-jzb {
+  border: 3px solid #38AFEA;
+  color: #38AFEA;
+  padding: 4px;
+  border-radius: 10px;
+  transition: background-color 0.3s, color 0.3s;
+}
+/* line 30, ../scss/jenny.scss */
+.logo-jzb:hover {
+  color: #ffffff;
+  background-color: #38AFEA;
+}
+
+/* line 38, ../scss/jenny.scss */
+.dt-separator:after {
+  background: #ffffff;
+}
+
+/* line 43, ../scss/jenny.scss */
+.whitetext {
+  color: #ffffff;
+}
+
+/* line 47, ../scss/jenny.scss */
+.capitals {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* line 52, ../scss/jenny.scss */
+#homepage-hexagons-intro.blue-bb {
+  background-color: #38AFEA;
+}
+/* line 54, ../scss/jenny.scss */
+#homepage-hexagons-intro.blue-bb h1 {
+  color: white;
+}
+
+/*//ICONS//*/
+/* line 62, ../scss/jenny.scss */
+.dt-hexagon,
+.dt-hexagon:before {
+  border-right: 2px solid #ffffff;
+}
+
+/* line 66, ../scss/jenny.scss */
+.dt-hexagon,
+.dt-hexagon:after {
+  border-left: 2px solid #ffffff;
+}
+
+/* line 70, ../scss/jenny.scss */
+.dt-hexagon:before {
+  border-top: 2px solid #ffffff;
+}
+
+/* line 73, ../scss/jenny.scss */
+.dt-hexagon:after {
+  border-bottom: 2px solid #ffffff;
+}
+
+/* line 76, ../scss/jenny.scss */
+.dt-hexagon:hover {
+  background-color: transparent;
+}
+
+/* line 80, ../scss/jenny.scss */
+.dt-hexagon, .dt-hexagon:after {
+  background-color: #38AFEA;
+}
+
+/* line 84, ../scss/jenny.scss */
+.icon-pencil:before,
+.icon-camera:before,
+.dt-hexagon i {
+  color: #ffffff;
+}
+
+/* line 91, ../scss/jenny.scss */
+i.fa.fa-code {
+  -webkit-text-stroke: 2px #38AFEA;
+}
+
+/* line 95, ../scss/jenny.scss */
+.main-navigation ul#primary-menu > li.menu-item-has-children:after {
+  display: none;
+}
+
+/* line 100, ../scss/jenny.scss */
+.skills .icon-pencil:before,
+.skills .icon-camera:before,
+.skills .no-fill .dt-service-icon *,
+.skills .dt-hexagon i {
+  color: #273C57;
+}
+/* line 107, ../scss/jenny.scss */
+.skills i.fa.fa-code {
+  -webkit-text-stroke: 2px white;
+}
+
+/* line 114, ../scss/jenny.scss */
+.projects-header-container {
+  background-color: #273C57;
+}
+/* line 116, ../scss/jenny.scss */
+.projects-header-container h2 {
+  padding: 90px;
+}
+
+/* line 122, ../scss/jenny.scss */
+.dark-background {
+  background-color: #273C57;
+  color: white;
+}
+/* line 125, ../scss/jenny.scss */
+.dark-background h2, .dark-background h4, .dark-background span {
+  color: white;
+}
+/* line 128, ../scss/jenny.scss */
+.dark-background a {
+  color: #38AFEA;
+}
+/* line 132, ../scss/jenny.scss */
+.dark-background a:hover {
+  color: white !important;
+}
