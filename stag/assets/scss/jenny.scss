@@ -56,6 +56,13 @@ a{
 	}
 }
 
+.main-navigation ul#primary-menu > li.menu-item-has-children:after{
+	display:none;
+}
+
+/*.main-navigation{
+    margin-right: 8rem;
+}*/
 /*//ICONS//*/
 
 
@@ -92,9 +99,7 @@ i.fa.fa-code{
 	-webkit-text-stroke: 2px $brandBlue;
 }
 
-.main-navigation ul#primary-menu > li.menu-item-has-children:after{
-	display:none;
-}
+
 
 .skills{
 	.icon-pencil:before,

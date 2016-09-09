@@ -8373,7 +8373,7 @@ ul.tabs li.active, ul.tabs li.active a:hover {
     background: #ddd;
     transition: all .3s ease-out;
   }
-  .main-navigation {
+  /*.main-navigation {
     float: left;
     display: block;
     width: 100%;
@@ -8450,7 +8450,7 @@ ul.tabs li.active, ul.tabs li.active a:hover {
   }
   .main-navigation li.menu-item-has-children:after {
     content: none !important;
-  }
+  }*/
   .bm.classic-menu {
     display: block;
   }
